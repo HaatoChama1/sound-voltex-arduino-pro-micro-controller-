@@ -1,0 +1,7 @@
+1x Arduino Pro Micro Controller
+6x cherry mx switch (or just any switch really)
+4x normal keycaps (the ones you find on wasd and not space bar or shift)
+2x shift keycaps
+1x pcb (depending on the size of your controller)
+2x rotary encoder (my circuit doesnt use the ones with expansion PCBs but if you have those the code will work just fine)
+1x usb micro to usb 2.0/3.0 cable with data transfer
